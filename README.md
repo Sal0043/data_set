@@ -4,5 +4,4 @@ but also new collaborations (https://cenet.vsb.cz/en) with foreign authors of im
 Each published dataset is followed by a contact person who will send further details about the published dataset
 in case of cooperation. 
 
-Any one he will use this dad set, please cite this article (Jahan S. Ibrahim, Blazek Vojtech, Misak Stanislav, Snasel vaclav, and Prokop Lukas.
-"Forecasting of Power Quality Parameters Based on Meteorological Data in Small-Scale Household Off-Grid Systems." 2022.)
+Any one who use this data set, please cite the following article (Jahan S. Ibrahim, Blazek Vojtech, Misak Stanislav, Snasel vaclav, and Prokop Lukas. "Forecasting of Power Quality Parameters Based on Meteorological Data in Small-Scale Household Off-Grid Systems." 2022.)
